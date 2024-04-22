@@ -1,0 +1,8 @@
+2024-04-22 16:30:41,265 [1] INFO DonorDbRepository..ctor[13] - Creating DonorDbRepository 
+2024-04-22 16:30:41,310 [1] INFO DonationDbRepository..ctor[16] - Creating DonationDbRepository 
+2024-04-22 16:30:41,311 [1] INFO CharityDbRepository..ctor[15] - Creating CharityRepository 
+2024-04-22 16:30:41,312 [1] INFO UserDbRepository..ctor[17] - Creating UserDbRepository 
+2024-04-22 16:30:51,797 [1] INFO UserDbRepository.Login[71] - Checking credentials for user iosua
+2024-04-22 16:30:52,008 [1] INFO UserDbRepository.Login[90] - Found 1 users with username iosua and password
+2024-04-22 16:30:52,160 [1] INFO DonationDbRepository.GetCharityAmounts[106] - Getting amounts donated to each charity
+2024-04-22 16:30:52,173 [1] INFO DonationDbRepository.GetCharityAmounts[124] - Found amounts for 3 charities

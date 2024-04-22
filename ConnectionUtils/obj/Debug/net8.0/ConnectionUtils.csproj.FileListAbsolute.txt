@@ -1,0 +1,15 @@
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\obj\Debug\net8.0\ConnectionUtils.csproj.AssemblyReference.cache
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\obj\Debug\net8.0\ConnectionUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\obj\Debug\net8.0\ConnectionUtils.AssemblyInfoInputs.cache
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\obj\Debug\net8.0\ConnectionUtils.AssemblyInfo.cs
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\obj\Debug\net8.0\ConnectionUtils.csproj.CoreCompileInputs.cache
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\bin\Debug\net8.0\ConnectionUtils.dll.config
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\bin\Debug\net8.0\ConnectionUtils.deps.json
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\bin\Debug\net8.0\ConnectionUtils.runtimeconfig.json
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\bin\Debug\net8.0\ConnectionUtils.dll
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\bin\Debug\net8.0\ConnectionUtils.pdb
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\obj\Debug\net8.0\ConnectionUtils.dll
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\obj\Debug\net8.0\refint\ConnectionUtils.dll
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\obj\Debug\net8.0\ConnectionUtils.pdb
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\obj\Debug\net8.0\ConnectionUtils.genruntimeconfig.cache
+C:\Users\iosua\RiderProjects\mpp-project-csharp-iosua_pop\ConnectionUtils\obj\Debug\net8.0\ref\ConnectionUtils.dll
